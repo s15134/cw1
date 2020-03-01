@@ -1,3 +1,3 @@
-# cw1
+#Tomasz P (s1514)
+# APBD Ćwiczenie 1
 
-Tomasz Pawłowski, s15134, 17C
